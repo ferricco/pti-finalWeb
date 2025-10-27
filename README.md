@@ -4,9 +4,9 @@
 
 ## Descrição do Projeto
 
-# Este sistema foi desenvolvido como parte do Projeto Integrador do curso técnico de Desenvolvimento de Sistemas do \*\*Senac\*\*.  
+# Este sistema foi desenvolvido como parte do Projeto Integrador do curso técnico de Desenvolvimento de Sistemas do **Senac**.  
 
-# O objetivo é criar uma aplicação completa para \*\*cadastro e gerenciamento de funcionários\*\*, integrando \*\*front-end HTML/CSS/JS\*\* com \*\*back-end em Spring Boot\*\* e \*\*banco de dados relacional\*\*.
+# O objetivo é criar uma aplicação completa para **cadastro e gerenciamento de funcionários**, integrando **front-end HTML/CSS/JS** com **back-end em Spring Boot** e **banco de dados relacional**.
 
 
 
